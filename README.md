@@ -33,7 +33,7 @@ If you’d like to suggest a feature or report a bug, please open an issue on th
      -LoadAssembly Libraries/ResoniteModLoader.dll
      ```
 
-2. Download the latest **NEKONameTagsResonite.dll** from the [Releases page](https://github.com/NEKO-Client/NEKONameTagsResonite/releases/latest).
+2. Download the latest **NEKONameTagsResonite.dll** from the [Releases page](https://github.com/NekoNameTags/NEKONameTagsResonite/releases/latest).
 
 3. Place `NEKONameTagsResonite.dll` into your `rml_mods` folder:
    ```
