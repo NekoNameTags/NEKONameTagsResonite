@@ -57,19 +57,12 @@ Resolute lets you install, update, and manage mods without manual file work.
 
 ---
 
-## ⌨️ Hotkeys
-| Key | Action |
-|-----|--------|
-| `/` | Reload nametags |
-
----
-
 ## 📄 Notes
 - This is a **mod only** (no loader included).  
 - Ensure **ResoniteModLoader** is installed before running the mod.  
-- For automatic updates in the future, Resolute is recommended.
+- For automatic updates in the future, Resolute is recommended (TODO).
 
 ---
 
 ### 💬 Community & Support
-Join our community on Discord for discussions, help, and new features!
+Join our community on Discord for discussions, help, and new features! [OUR DISCORD](https://nekosunevr.co.uk/?redirect=discord)
